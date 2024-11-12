@@ -1,5 +1,5 @@
 // database/db.go
-package db
+package go_db
 
 import (
 	"database/sql"

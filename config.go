@@ -1,5 +1,5 @@
 // database/config.go
-package db
+package go_db
 
 import (
 	"encoding/json"
